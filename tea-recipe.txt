@@ -1,0 +1,19 @@
+Tea Recipe
+
+Author: Warren Braganza
+Created On: 12/05/2016
+Updated On: 12/05/2016
+
+Ingredients:
+Tea Powder
+Sugar
+Water
+Milk
+
+Instructions:
+1. First add 3 cups of water to a stainless steel container.
+2. Add 3 tsp tea powder and 1 tbsp sugar.
+3. Bring the mixture to a boil.
+4. When the mixture is at a boiling point, add milk.
+5. Allow the tea to boil and switch of the stove.
+6. Serve in a tea cup or glass, accompanied by bread and cheese.
